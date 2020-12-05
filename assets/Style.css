@@ -1,0 +1,24 @@
+iframe {
+    width: 240%; /* adjust to your needs */
+    max-width: 150%; /* to make it responsive */
+    margin: 0px auto !important;
+    position: relative;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+    position: relative;
+}
+
+.divider {
+    padding: 32px;
+}
+
+body {
+    padding-right: 20px;
+}
+
+.spreadsheet {
+   
+}
